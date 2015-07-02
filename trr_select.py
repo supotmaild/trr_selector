@@ -1,5 +1,9 @@
 '''TRR Eyeglasses Selector'''
 '''Version 1.0.1 2 Jul 2015'''
+'''use with Python 2.7'''
+'''with PIL'''
+'''and SimpleCV'''
+'''Complie with PY2EXE'''
 import winsound,sys,threading,time
 global winsound,sys,threading,time
 from SimpleCV import Camera
