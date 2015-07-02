@@ -10,9 +10,10 @@ global winsound,sys,threading,time
 from SimpleCV import Camera
 import Tkinter as tk
 from Tkinter import PhotoImage, Tk, Canvas, Scrollbar, Text, StringVar
+from Tkinter import END, RIGHT, LEFT, Y, N, BOTH, VERTICAL
 import ttk
 from PIL import ImageTk, Image
-global tk
+global tk,END
 global canvas,quad,nine,sixteen,clean
 global label4002,price,hut,hut_num,cam_num
 global plu,plu_pic,plu_tkpi,plu_button,plu_take_a_picture
